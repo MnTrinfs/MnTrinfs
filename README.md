@@ -1,11 +1,11 @@
-## 🚀 About Me
+# 🚀 About Me
 I am a fourth-year student majoring in Telecommunications and Electronics at the University of Science, Ho Chi Minh City (VNU-HCMUS). 
 I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk position and develop my expertise and make a meaningful impact.
 
-## ⚙️ Skills Overview
+# ⚙️ Skills Overview
 <img align='right' src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="300">
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
@@ -24,7 +24,7 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   </a>
 </p>
 
-### 🛠 Tools:
+## 🛠 Tools:
 <p>
   <a href="https://github.com/" target="_blanfalse" />
       <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="Github" height="70" weight="70" />
@@ -82,7 +82,7 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   </a> 
 </p>
 
-### 📡 Telecommunications
+## 📡 Telecommunications
 <ul>
   <li>Networking Security (EternalBlue Exploit, Website Vulnerability Scanning, SQL Injection...)</li>
   <li>Infrastructure Administrator (CCNA Cisco, GNS3, EVE-NG)</li>
@@ -91,10 +91,10 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <li>Digital Communication, Digital Signal Processing, Mobile Communications</li>
 </ul>
 
-### 🤝 Soft Skills
+## 🤝 Soft Skills
 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
-## 📫 Connect with me
+# 📫 Connect with me
 <p>
     <a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
