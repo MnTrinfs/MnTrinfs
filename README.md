@@ -32,7 +32,7 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="70" weight="70" />
   </a>
   <a href="https://developer.android.com/studio" target="_blank" >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="Android" height="70"/>
+      <img src="https://koderspedia.com/wp-content/uploads/2024/03/android-studio-icon-8.png" alt="Android" height="70"/>
   </a>
   <a href="https://www.credly.com/badges/cf104754-d148-4619-b1f8-92f5f29d0aae/public_url" target="_blank" >
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="60" weight="60"/>
