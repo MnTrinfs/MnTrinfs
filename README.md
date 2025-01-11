@@ -1,8 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuannguyenba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
 # 🚀 About Me
 I am a fourth-year student majoring in Telecommunications and Electronics at the University of Science, Ho Chi Minh City (VNU-HCMUS). 
 I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk position and develop my expertise and make a meaningful impact.
 
 # ⚙️ Skills Overview
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ### 👨‍💻 Programming Languages
 <p>
@@ -94,7 +97,11 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 </ul>
 
 ### 🤝 Soft Skills
-🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
+<ul>
+  <li>Problem-Solving</li>
+  <li>Team Collaboration</li>
+  <li>Communication</li>
+</ul>
 
 # 📊 Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MnTrinfs)](https://git.io/streak-stats)
@@ -117,3 +124,5 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
     </a>
 </p>
+
+#### Thanks for visiting :heart:
