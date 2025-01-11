@@ -3,7 +3,6 @@ I am a fourth-year student majoring in Telecommunications and Electronics at the
 I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk position and develop my expertise and make a meaningful impact.
 
 # ⚙️ Skills Overview
-<img align='right' src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="300">
 
 ### 👨‍💻 Programming Languages
 <p>
@@ -79,7 +78,10 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   </a>
   <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
       <img src="https://images.credly.com/images/092f3fa2-27e3-4023-a9d7-f0f8de106156/image.png" alt="CustomCompiler" width="70" height="70"/>
-  </a> 
+  </a>
+  <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
+      <img src="https://www.silabs.com/content/dam/siliconlabs/images/icons/navigation-icons/simplicity-studio-blue.png" alt="CustomCompiler" width="70" height="70"/>
+  </a>
 </p>
 
 ### 📡 Telecommunications
