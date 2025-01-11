@@ -5,7 +5,7 @@ I am a fourth-year student majoring in Telecommunications and Electronics at the
 I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk position and develop my expertise and make a meaningful impact.
 
 ## ⚙️ Skills Overview
-<img align='right' src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="350">
+<img align='right' src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="300">
 
 ### 👨‍💻 Programming Languages
 <p>
