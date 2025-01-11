@@ -1,5 +1,3 @@
-# <h1 align="left">Hi everyone, I'm Minh Tri Nguyen Ngoc</h1>
-
 ## 🚀 About Me
 I am a fourth-year student majoring in Telecommunications and Electronics at the University of Science, Ho Chi Minh City (VNU-HCMUS). 
 I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk position and develop my expertise and make a meaningful impact.
