@@ -1,19 +1,3 @@
-<a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
-  </a>
-<a href="https://www.youtube.com/@davidnguyen7897" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
-  </a>
-<a href="mailto:bthong45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
-  </a>
-<a href="https://www.linkedin.com/in/nguynngcminhtr7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-</a>
-<a href="https://x.com/NguynNgcMinhTr7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
-</a>
-
 # <h1 align="left">Hi everyone, I'm Minh Tri Nguyen Ngoc</h1>
 
 ## 🚀 About Me
@@ -21,6 +5,7 @@ I am a fourth-year student majoring in Telecommunications and Electronics at the
 I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk position and develop my expertise and make a meaningful impact.
 
 ## ⚙️ Skills Overview
+<img align='right' src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="350">
 
 ### 👨‍💻 Programming Languages:
 <p>
@@ -113,4 +98,23 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 ### 🤝 Soft Skills:
 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
+<h2 align="left">Connect with me:</h2>
 
+## 📫 Contact me:
+<div align="left">
+    <a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
+    </a>
+    <a href="https://www.youtube.com/@davidnguyen7897" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
+      </a>
+    <a href="mailto:bthong45@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/nguynngcminhtr7" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+    </a>
+    <a href="https://x.com/NguynNgcMinhTr7" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
+    </a>
+</div>
