@@ -7,7 +7,7 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 ## ⚙️ Skills Overview
 <img align='right' src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="350">
 
-### 👨‍💻 Programming Languages:
+### 👨‍💻 Programming Languages
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
@@ -61,7 +61,6 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://www.mongodb.com/" target="_blank" >
       <img src="https://media.licdn.com/dms/image/v2/D4D12AQEAO8b3YbB2bw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1670420866062?e=2147483647&v=beta&t=g8_5fQXK2PxUapClJTjmx9uV2t6noDWTkkiQSbb33ys" alt="REST API" height="70" weight="70"/>
   </a>
-  
   <a href="https://mobaxterm.mobatek.net/" target="_blank" >
       <img src="https://img.utdstc.com/icon/a74/0c5/a740c5e5d9d9d4a1fe6e4c9018055de8b272df56aa5b76ae5f2447923870bf6f:200" alt="MobaXterm" height="71" weight="71"/>
   </a>
@@ -82,11 +81,10 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   </a>
   <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
       <img src="https://images.credly.com/images/092f3fa2-27e3-4023-a9d7-f0f8de106156/image.png" alt="CustomCompiler" width="70" height="70"/>
-  </a>
-  
+  </a> 
 </p>
 
-### 📡 Telecommunications:
+### 📡 Telecommunications
 <ul>
   <li>Networking Security (EternalBlue Exploit, Website Vulnerability Scanning, SQL Injection...)</li>
   <li>Infrastructure Administrator (CCNA Cisco, GNS3, EVE-NG)</li>
@@ -95,11 +93,11 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <li>Digital Communication, Digital Signal Processing, Mobile Communications</li>
 </ul>
 
-### 🤝 Soft Skills:
+### 🤝 Soft Skills
 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
-## <h2 align="left">📫 Connect with me:</h2>:
-<div align="left">
+## 📫 Connect with me
+<p>
     <a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
     </a>
@@ -115,4 +113,4 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
     <a href="https://x.com/NguynNgcMinhTr7" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
     </a>
-</div>
+</p>
