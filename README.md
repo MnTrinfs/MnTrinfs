@@ -96,7 +96,10 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 ### 🤝 Soft Skills
 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
-# 📫 Connect with me
+# 📊 Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MnTrinfs)](https://git.io/streak-stats)
+
+# 📫 Connect
 <p>
     <a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="facebook logo"  />
