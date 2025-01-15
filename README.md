@@ -92,7 +92,7 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
       <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="70"/>
   </a>
   <a href="https://www.labcenter.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="70"/>
+      <img src="https://dammedientu.vn/wp-content/uploads/2018/02/proteus-8-4proteus-8-5proteus-8-6-sp2-professional-full-crack-proteus-ve-mo-phong-mach-dien-.jpg" width="70"/>
   </a>
 </p>
 
