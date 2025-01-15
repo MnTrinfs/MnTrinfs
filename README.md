@@ -91,6 +91,9 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://nodejs.org/en" target="_blank">
       <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="70"/>
   </a>
+  <a href="https://www.labcenter.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="70"/>
+  </a>
 </p>
 
 ### 📡 Telecommunications
