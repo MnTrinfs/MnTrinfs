@@ -115,6 +115,13 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 # 📊 Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MnTrinfs)](https://git.io/streak-stats)
 
+## 🚀 Projects:
+| Project Name                        | Description                                                                      | Tools                                 | Completion Date |
+|-------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------|
+| [**Electronics**](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Electronics) | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | 2021 - 2025 |
+| [**Computer and Embedded Systems**](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Computer%20and%20Embedded%20Systems) | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | 2021 - 2025 |
+| [**Telecommunications and Networks**](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Telecommunications%20and%20Networks) | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | 2021 - 2025 |
+
 # 📫 Connect
 <p>
     <a href="https://www.facebook.com/minhtri.nguyenngoc.3572" target="_blank">
