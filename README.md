@@ -80,9 +80,6 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
       <img src="https://user-images.githubusercontent.com/16562333/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989.png" alt="STM32" width="70" height="70"/>
   </a>
   <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
-      <img src="https://images.credly.com/images/092f3fa2-27e3-4023-a9d7-f0f8de106156/image.png" alt="CustomCompiler" width="70" height="70"/>
-  </a>
-  <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
       <img src="https://www.silabs.com/content/dam/siliconlabs/images/icons/navigation-icons/simplicity-studio-blue.png" alt="CustomCompiler" width="70" height="70"/>
   </a>
 </p>
