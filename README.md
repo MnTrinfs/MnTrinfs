@@ -85,6 +85,9 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://www.arduino.cc/" target="_blank">
       <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="70" height="70"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70" height="70"/>
+  </a>
 </p>
 
 ### 📡 Telecommunications
