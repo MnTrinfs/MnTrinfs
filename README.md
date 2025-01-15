@@ -89,7 +89,7 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="70"/>
+      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="70"/>
   </a>
 </p>
 
