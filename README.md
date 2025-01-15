@@ -58,8 +58,8 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://www.mongodb.com/" target="_blank" >
       <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="70" weight="70"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" >
-      <img src="https://media.licdn.com/dms/image/v2/D4D12AQEAO8b3YbB2bw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1670420866062?e=2147483647&v=beta&t=g8_5fQXK2PxUapClJTjmx9uV2t6noDWTkkiQSbb33ys" alt="REST API" height="70" weight="70"/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank" >
+      <img src="https://humao.gallerycdn.vsassets.io/extensions/humao/rest-client/0.25.1/1660918934840/Microsoft.VisualStudio.Services.Icons.Default" alt="REST Client" height="70" weight="70"/>
   </a>
   <a href="https://mobaxterm.mobatek.net/" target="_blank" >
       <img src="https://img.utdstc.com/icon/a74/0c5/a740c5e5d9d9d4a1fe6e4c9018055de8b272df56aa5b76ae5f2447923870bf6f:200" alt="MobaXterm" height="71" weight="71"/>
