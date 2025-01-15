@@ -82,6 +82,9 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
       <img src="https://www.silabs.com/content/dam/siliconlabs/images/icons/navigation-icons/simplicity-studio-blue.png" alt="CustomCompiler" width="70" height="70"/>
   </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+      <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="70" height="70"/>
+  </a>
 </p>
 
 ### 📡 Telecommunications
