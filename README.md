@@ -38,16 +38,16 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
       <img src="https://koderspedia.com/wp-content/uploads/2024/03/android-studio-icon-8.png" alt="Android" height="70"/>
   </a>
   <a href="https://www.credly.com/badges/cf104754-d148-4619-b1f8-92f5f29d0aae/public_url" target="_blank" >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="60" weight="60"/>
+      <img src="https://svgmix.com/uploads/skillicons/29026e-aws-dark.svg" alt="AWS" height="70" weight="70"/>
   </a>
   <a href="https://dashboard.sunteco.vn/" target="_blank" >
       <img src="https://sunteco.vn/wp-content/uploads/2023/04/Sunteco-logo-200x200-1.png" alt="Sunteco Cloud" height="70" weight="70"/>
   </a>
   <a href="https://www.credly.com/badges/cbeb46fe-56d0-4072-9f47-f26ccdb5bb44/public_url" target="_blank" >
-      <img src="https://appliedtechnologyacademy.com/wp-content/uploads/2024/03/ccna-logo-e1715949101724.webp" alt="CCNA" height="70" weight="70" />
+      <img src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" alt="PacketTracer" height="70" weight="70" />
   </a>
   <a href="" target="_blank" >
-      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="MCSA" height="70" />
+      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="WinServer" height="70" />
   </a>
   <a href="https://www.gns3.com/" target="_blank" >
       <img src="https://static-00.iconduck.com/assets.00/apps-gns3-icon-512x512-awzic0u1.png" alt="GNS3" height="70" weight="70" />
@@ -65,34 +65,13 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
       <img src="https://img.utdstc.com/icon/a74/0c5/a740c5e5d9d9d4a1fe6e4c9018055de8b272df56aa5b76ae5f2447923870bf6f:200" alt="MobaXterm" height="71" weight="71"/>
   </a>
   <a href="https://www.office.com/" target="_blank" >
-      <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="Ms Office" height="70" weight="70" />
+      <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="MS Office" height="70" weight="70" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="70" height="70"/>
   </a>
-  <a href="https://www.intel.com/" target="_blank">
-      <img src="https://github.com/tuan22th4/Images/blob/main/quartusii_icon.ico" alt="FPGA" width="70" height="70"/>
-  </a>
-  <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-      <img src="https://images.sftcdn.net/images/t_app-icon-m/p/d55e21eb-857a-4b0e-8403-584ec5ce0543/1490032411/ltspice-icon.jpg" alt="LTSpice" width="70" height="70"/>
-  </a>
-  <a href="" target="_blank">
-      <img src="https://user-images.githubusercontent.com/16562333/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989.png" alt="STM32" width="70" height="70"/>
-  </a>
-  <a href="https://www.synopsys.com/implementation-and-signoff/custom-design-platform/custom-compiler.html" target="_blank">
-      <img src="https://www.silabs.com/content/dam/siliconlabs/images/icons/navigation-icons/simplicity-studio-blue.png" alt="CustomCompiler" width="70" height="70"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-      <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="70" height="70"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="70"/>
-  </a>
   <a href="https://nodejs.org/en" target="_blank">
-      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="70"/>
-  </a>
-  <a href="https://www.labcenter.com/" target="_blank">
-      <img src="https://dammedientu.vn/wp-content/uploads/2018/02/proteus-8-4proteus-8-5proteus-8-6-sp2-professional-full-crack-proteus-ve-mo-phong-mach-dien-.jpg" width="70"/>
+      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="NodeJS" width="70"/>
   </a>
 </p>
 
@@ -115,12 +94,6 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 # 📊 Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MnTrinfs)](https://git.io/streak-stats)
 
-## 🚀 Projects:
-| Project Name                        | Description                                                                      | Tools                                 | Completion Date |
-|-------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------|
-| [**Electronics**](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Electronics) | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | 2021 - 2025 |
-| [**Computer and Embedded Systems**](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Computer%20and%20Embedded%20Systems) | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | 2021 - 2025 |
-| [**Telecommunications and Networks**](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Telecommunications%20and%20Networks) | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | 2021 - 2025 |
 
 # 📫 Connect
 <p>
