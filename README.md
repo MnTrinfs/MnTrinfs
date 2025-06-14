@@ -26,54 +26,48 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   </a>
 </p>
 
-### 🛠 Tools:
-<p>
-  <a href="https://github.com/" target="_blanfalse" />
-      <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="Github" height="70" weight="70" />
-  </a>
-  <a href="https://www.linux.org/" target="_blanfalse" />
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="70" weight="70" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" >
-      <img src="https://koderspedia.com/wp-content/uploads/2024/03/android-studio-icon-8.png" alt="Android" height="70"/>
-  </a>
-  <a href="https://www.credly.com/badges/cf104754-d148-4619-b1f8-92f5f29d0aae/public_url" target="_blank" >
-      <img src="https://svgmix.com/uploads/skillicons/29026e-aws-dark.svg" alt="AWS" height="70" weight="70"/>
-  </a>
-  <a href="https://dashboard.sunteco.vn/" target="_blank" >
-      <img src="https://sunteco.vn/wp-content/uploads/2023/04/Sunteco-logo-200x200-1.png" alt="Sunteco Cloud" height="70" weight="70"/>
-  </a>
-  <a href="https://www.credly.com/badges/cbeb46fe-56d0-4072-9f47-f26ccdb5bb44/public_url" target="_blank" >
-      <img src="https://img.utdstc.com/icon/721/e38/721e3824a87ba439cbd2e9e2357e678ba46d5d249cf52fd39a9dc90de7d37b28:200" alt="PacketTracer" height="70" weight="70" />
-  </a>
-  <a href="" target="_blank" >
-      <img src="https://cdn.worldvectorlogo.com/logos/windows-server-2.svg" alt="WinServer" height="70" />
-  </a>
-  <a href="https://www.gns3.com/" target="_blank" >
-      <img src="https://static-00.iconduck.com/assets.00/apps-gns3-icon-512x512-awzic0u1.png" alt="GNS3" height="70" weight="70" />
-  </a>
-  <a href="https://www.eve-ng.net/" target="_blank" >
-      <img src="https://bit.ly/eve-ng-icon" alt="EVE-NG"  height="71" weight="71"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" >
-      <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="70" weight="70"/>
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank" >
-      <img src="https://humao.gallerycdn.vsassets.io/extensions/humao/rest-client/0.25.1/1660918934840/Microsoft.VisualStudio.Services.Icons.Default" alt="REST Client" height="70" weight="70"/>
-  </a>
-  <a href="https://mobaxterm.mobatek.net/" target="_blank" >
-      <img src="https://img.utdstc.com/icon/a74/0c5/a740c5e5d9d9d4a1fe6e4c9018055de8b272df56aa5b76ae5f2447923870bf6f:200" alt="MobaXterm" height="71" weight="71"/>
-  </a>
-  <a href="https://www.office.com/" target="_blank" >
-      <img src="https://cdn-icons-png.flaticon.com/256/732/732222.png" alt="MS Office" height="70" weight="70" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="70" height="70"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-      <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="NodeJS" width="70"/>
-  </a>
-</p>
+### 🛠 Skills & Tools: 
+
+- **Containerization & Orchestration**:  
+  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)  
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
+
+- **Monitoring & Observability**:  
+  ![Prometheus](https://img.shields.io/badge/-Prometheus-e6522c?logo=prometheus&logoColor=white)  
+  ![Grafana](https://img.shields.io/badge/-Grafana-f46800?logo=grafana&logoColor=white)  
+  ![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?logo=zabbix&logoColor=white)  
+  ![PRTG](https://img.shields.io/badge/-PRTG%20Network%20Monitor-ffcc00?logo=windows&logoColor=black)  
+
+- **Networking Tools**:  
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
+  ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1ba0d7?logo=cisco&logoColor=white)  
+  ![GNS3](https://img.shields.io/badge/-GNS3-2c3e50?logo=gns3&logoColor=white)  
+  ![EVE-NG](https://img.shields.io/badge/-EVE--NG-1f1f1f?logo=linux&logoColor=white)  
+  ![PnetLab](https://img.shields.io/badge/-PnetLab-003366?logo=proxmox&logoColor=white)  
+  ![FortiGate](https://img.shields.io/badge/-FortiGate-EE3124?logo=fortinet&logoColor=white)
+
+- **Enterprise Networking & Security**:  
+  ![Aruba ClearPass](https://img.shields.io/badge/-Aruba%20ClearPass-FF6600?logo=aruba&logoColor=white)
+
+- **Mail Servers & Gateways**:  
+  ![Proxmox Mail Gateway](https://img.shields.io/badge/-Proxmox%20Mail%20Gateway-E57000?logo=proxmox&logoColor=white)  
+  ![Zimbra](https://img.shields.io/badge/-Zimbra-DA1F26?logo=zimbra&logoColor=white)
+
+- **Servers & OS**:  
+  ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)  
+  ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+
+- **Web & Reverse Proxy**:  
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)  
+  ![Apache HTTP Server](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white)
+
+- **DevOps & CI/CD**:  
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+- **Backend & Databases**:  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)   
 
 ### 📡 Telecommunications
 <ul>
