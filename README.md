@@ -15,9 +15,6 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70"/>
   </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="60"/>
-  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
   </a>
