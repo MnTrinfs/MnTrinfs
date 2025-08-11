@@ -28,10 +28,9 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
 
 ### 📡 Telecommunications
 <ul>
-  <li>Networking Security (EternalBlue Exploit, Website Vulnerability Scanning, SQL Injection...)</li>
   <li>Infrastructure Administrator (CCNA Cisco, GNS3, EVE-NG)</li>
   <li>System Administrator (MCSA)</li>
-  <li>Cloud Computing (AWS, Sunteco Cloud)</li>
+  <li>Cloud Computing (AWS)</li>
   <li>Digital Communication, Digital Signal Processing, Mobile Communications</li>
 </ul>
 
