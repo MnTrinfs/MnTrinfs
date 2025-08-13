@@ -15,22 +15,19 @@ I'm eager to apply my skills in Computer Networking, IT Support, IT Helpdesk pos
   <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="70" height="70"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/>
   </a>
 </p>
 
 ### 🛠 I rely on:  
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-e6522c?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-f46800?logo=grafana&logoColor=white) ![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?logo=zabbix&logoColor=white) ![PRTG](https://img.shields.io/badge/-PRTG%20Network%20Monitor-ffcc00?logo=windows&logoColor=black) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1ba0d7?logo=cisco&logoColor=white) ![GNS3](https://img.shields.io/badge/-GNS3-2c3e50?logo=gns3&logoColor=white) ![EVE-NG](https://img.shields.io/badge/-EVE--NG-1f1f1f?logo=linux&logoColor=white) ![PnetLab](https://img.shields.io/badge/-PnetLab-003366?logo=proxmox&logoColor=white) ![FortiGate](https://img.shields.io/badge/-FortiGate-EE3124?logo=fortinet&logoColor=white) ![Aruba ClearPass](https://img.shields.io/badge/-Aruba%20ClearPass-FF6600?logo=aruba&logoColor=white) ![Proxmox Mail Gateway](https://img.shields.io/badge/-Proxmox%20Mail%20Gateway-E57000?logo=proxmox&logoColor=white) ![Zimbra](https://img.shields.io/badge/-Zimbra-DA1F26?logo=zimbra&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Apache HTTP Server](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)   
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-e6522c?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-f46800?logo=grafana&logoColor=white) ![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?logo=zabbix&logoColor=white) ![PRTG](https://img.shields.io/badge/-PRTG%20Network%20Monitor-ffcc00?logo=windows&logoColor=black) ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1ba0d7?logo=cisco&logoColor=white) ![GNS3](https://img.shields.io/badge/-GNS3-2c3e50?logo=gns3&logoColor=white) ![EVE-NG](https://img.shields.io/badge/-EVE--NG-1f1f1f?logo=linux&logoColor=white) ![PnetLab](https://img.shields.io/badge/-PnetLab-003366?logo=proxmox&logoColor=white) ![Aruba ClearPass](https://img.shields.io/badge/-Aruba%20ClearPass-FF6600?logo=aruba&logoColor=white) ![Proxmox Mail Gateway](https://img.shields.io/badge/-Proxmox%20Mail%20Gateway-E57000?logo=proxmox&logoColor=white) ![Zimbra](https://img.shields.io/badge/-Zimbra-DA1F26?logo=zimbra&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Apache HTTP Server](https://img.shields.io/badge/-Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)   
 
 ### 📡 Telecommunications
 <ul>
-  <li>Infrastructure Administrator (CCNA Cisco, GNS3, EVE-NG)</li>
-  <li>System Administrator (MCSA)</li>
-  <li>Cloud Computing (AWS)</li>
+  <li>Infrastructure Administrator</li>
+  <li>System Administrator</li>
+  <li>Cloud Computing</li>
   <li>Digital Communication, Digital Signal Processing, Mobile Communications</li>
 </ul>
 
